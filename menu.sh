@@ -459,7 +459,7 @@ echo -e "${WHITE}
 ██║ ╚████║██║██║  ██╗   ██║   ╚██████╔╝       ██║   ╚██████╔╝╚██████╔╝███████╗███████║${BLUE}
 ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝        ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝${WHITE}
 ${WHITE}"
-    echo -e "${WHITE}CODED BY YANLIZ KURT ${LIGHTBLUE}D${WHITE}A${LIGHTBLUE}R${WHITE}K${LIGHTBLUE}S${WHITE}E${LIGHTBLUE}C${WHITE}A${LIGHTBLUE}R${WHITE}M${LIGHTBLUE}Y.${WHITE}C${LIGHTBLUE}O${WHITE}M ${RED}[EDIT YASAKTIR] "
+    echo -e "${WHITE}CODED BY COLAK ${LIGHTBLUE}D${WHITE}A${LIGHTBLUE}R${WHITE}K${LIGHTBLUE}S${WHITE}E${LIGHTBLUE}C${WHITE}A${LIGHTBLUE}R${WHITE}M${LIGHTBLUE}Y.${WHITE}C${LIGHTBLUE}O${WHITE}M ${RED}[EDIT YASAKTIR] "
     echo -e "${WHITE} "${GREEN}CTRL + Z YAPARAK SCRIPTDEN CIKIS YAPABILIRSINIZ
     echo -e "${RED}================= Parametreler ================+ "	
     echo -e "${LIGHTBLUE}[1]${WHITE}NORMAL TARAMA${LIGHTBLUE}" 
